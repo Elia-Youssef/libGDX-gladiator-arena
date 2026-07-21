@@ -63,3 +63,7 @@ and end-state rules. `GameplayScreen` translates input and renders the current s
 
 Gladiator Arena is asset-free. The arena, combatants, projectiles, HUD, and overlays are drawn with
 libGDX primitives and the built-in font.
+
+## License
+
+This project is available under the [MIT License](LICENSE).
